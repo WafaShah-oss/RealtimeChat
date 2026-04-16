@@ -112,7 +112,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start" : "npm App.js"
+    "start" : "node App.js"
 
   },
   "keywords": [],
